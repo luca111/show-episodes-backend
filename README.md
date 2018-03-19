@@ -34,6 +34,7 @@ npm start
 
 ## To do
 Make the populate command terminate gracefully.
+Eventually use environment variables to connect to the database.
 
 ## Credits
 TVmaze for TV shows info that you use.
